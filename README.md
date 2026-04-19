@@ -22,4 +22,5 @@ Install the required packages:
 ```bash
 pip install numpy matplotlib
 
+Run the program:
 python project8.py
