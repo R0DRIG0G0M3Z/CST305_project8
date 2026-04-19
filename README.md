@@ -7,17 +7,17 @@ In Part 2, the same idea is applied to estimate the total amount of downloaded d
 
 ## Files
 - `project8.py` - main program
-- `documentation.docx` - project documentation
+- `CST305_Project8_Documentation.docx` - project documentation
 - `README.md` - project description and execution instructions
+- `download_rates.csv` - download-rate data used in Part 2
 
 ## Packages Used
 - numpy
 - matplotlib
 
 ## How to Run
+
 Install the required packages:
 
 ```bash
 pip install numpy matplotlib
-```
-python project8.py
