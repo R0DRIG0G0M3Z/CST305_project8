@@ -20,3 +20,4 @@ Install the required packages:
 ```bash
 pip install numpy matplotlib
 ```
+python project8.py
